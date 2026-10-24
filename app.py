@@ -15,7 +15,7 @@ st.set_page_config(
 TEMPLATE_PLOT = "plotly_white"
 
 # Título principal de la aplicación
-st.title("🚇 Dashboard Gerencial: Análisis de Afluencia y Demanda - Metro CDMX")
+st.title("🚇 Análisis de Afluencia y Demanda - Metro CDMX")
 st.markdown(
     "Plataforma simplificada para la evaluación de movilidad urbana y monitoreo de estaciones clave (2010 - 2024)."
 )
